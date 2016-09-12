@@ -1,6 +1,8 @@
-# wolverhampton
+# Wolverhampton
 
-FIXME: description
+Utility to look up and print examples from the Clojure documentation in the REPL or console.
+
+Named because it will likely be the only Clojure code to come out of Wolverhampton.
 
 ## Installation
 
